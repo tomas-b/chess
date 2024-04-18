@@ -1,6 +1,5 @@
 import { Chessboard } from "react-chessboard";
 import { useChessboard, useWizard } from "./store";
-// import { lesson1 } from "./lessons";
 import { useEffect } from "react";
 import "./App.css";
 
